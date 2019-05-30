@@ -1,0 +1,73 @@
+body{
+    font-family:inherit; 
+    color:#e93a9a; 
+    background-color: rgb(0, 0, 0); 
+    font-size: 70%;
+   
+   
+}
+
+p{
+    font-family: initial;
+    color: white;
+    font-style:oblique;
+    font-size: 30px;
+
+}
+h1{
+    border: solid, 20px, purple;
+}
+h2{
+    font-family:fantasy;  
+    font-size: 20px;
+    margin: 20px;
+    
+}
+h3{
+    font-size:15px; 
+    font-family:cursive; 
+    color:rgb(93, 240, 129)
+}
+h4{
+    color:paleturquoise
+}
+h5{
+    color:white;
+    font-family:serif
+}
+.dragon {
+	font-family: initial;
+	font-style:oblique;
+	color:red;
+}
+.attitude {
+    font-family:cursive;
+    font-style:oblique;
+    color: pink;
+}
+.DRAGON {
+    color:gold;
+    font-style:normal;
+    font-family: Arial;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+  }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .image {
+      float:right;
+  }
+  #body {
+      border: solid, 10px, white;
+      padding: 0 5px;
+  }
